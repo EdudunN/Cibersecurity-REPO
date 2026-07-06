@@ -4,10 +4,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm an aspiring cybersecurity professional passionate about technology, networking, offensive security, defensive security, and continuous learning.
-
 This repository serves as my:
 
 - 📚 Knowledge Base
